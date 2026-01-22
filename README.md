@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -73,8 +74,13 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0012-integer-to-roman) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0050-powx-n) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
