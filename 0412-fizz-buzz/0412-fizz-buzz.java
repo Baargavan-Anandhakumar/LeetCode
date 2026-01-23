@@ -15,7 +15,7 @@ class Solution {
             }
             else
             {
-                list.add(""+i+"");
+                list.add(i+"");
             }
         }
         return list;
