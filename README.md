@@ -20,6 +20,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,10 +113,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
+| [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0015-3sum) |
+| [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -125,4 +128,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
