@@ -69,6 +69,7 @@
 | [0050-powx-n](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
 | ------- |
