@@ -52,6 +52,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -141,6 +143,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0078-subsets) |
 ## Tree
 |  |
