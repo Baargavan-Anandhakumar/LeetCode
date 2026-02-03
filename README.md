@@ -70,6 +70,7 @@
 | [0002-add-two-numbers](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0050-powx-n) |
+| [0292-nim-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -161,4 +162,12 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
