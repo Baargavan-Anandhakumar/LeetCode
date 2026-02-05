@@ -31,6 +31,7 @@
 | [0001-two-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0012-integer-to-roman) |
+| [0076-minimum-window-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -108,6 +110,7 @@
 | [0012-integer-to-roman](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
