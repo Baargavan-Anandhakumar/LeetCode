@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -65,6 +66,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0312-burst-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0312-burst-balloons) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
