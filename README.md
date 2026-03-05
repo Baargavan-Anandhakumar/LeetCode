@@ -71,6 +71,7 @@
 | [0072-edit-distance](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0312-burst-balloons) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
@@ -87,6 +88,7 @@
 | [0007-reverse-integer](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -132,6 +134,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -141,6 +144,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -219,4 +223,8 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
