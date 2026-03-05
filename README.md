@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0056-merge-intervals) |
@@ -40,6 +41,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -111,6 +113,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Interactive
@@ -192,6 +195,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0131-palindrome-partitioning) |
