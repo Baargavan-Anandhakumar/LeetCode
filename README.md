@@ -73,6 +73,7 @@
 | [0072-edit-distance](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0312-burst-balloons) |
 | [0473-matchsticks-to-square](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0473-matchsticks-to-square) |
@@ -140,6 +141,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -192,6 +194,7 @@
 | [0022-generate-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0473-matchsticks-to-square](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Tree
