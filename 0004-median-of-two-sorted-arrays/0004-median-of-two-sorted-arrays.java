@@ -1,48 +1,48 @@
-import java.util.Arrays;
-
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
-        
-        if(nums1.length == 0 && nums2.length == 0)
+        if (nums1.length == 0 && nums2.length == 0)
             return 0;
 
-
-        if(nums1.length == 0)
-        {
+        if (nums1.length == 0) {
             int n = nums2.length;
-            if(n % 2 == 0)
-                return ((double)nums2[n/2 - 1] + nums2[n/2]) / 2;
+            if (n % 2 == 0)
+                return ((double) nums2[n / 2 - 1] + nums2[n / 2]) / 2;
             else
-                return nums2[n/2];
+                return nums2[n / 2];
         }
 
-        if(nums2.length == 0)
-        {
+        if (nums2.length == 0) {
             int n = nums1.length;
-            if(n % 2 == 0)
-                return ((double)nums1[n/2 - 1] + nums1[n/2]) / 2;
+            if (n % 2 == 0)
+                return ((double) nums1[n / 2 - 1] + nums1[n / 2]) / 2;
             else
-                return nums1[n/2];
+                return nums1[n / 2];
+        }
+        int m = nums1.length;
+        int n = nums2.length;
+
+        int[] res = new int[m + n];
+        int i = 0, j = 0, k = 0;
+
+        while (i < m && j < n) {
+            if (nums1[i] <= nums2[j])
+                res[k++] = nums1[i++];
+            else
+                res[k++] = nums2[j++];
         }
 
-        int res[] = new int[nums1.length + nums2.length];
+        while (i < m)
+            res[k++] = nums1[i++];
 
-        for(int i = 0; i < res.length; i++)
-        {
-            if(i >= nums1.length)
-                res[i] = nums2[i - nums1.length];
-            else
-                res[i] = nums1[i];
-        }
+        while (j < n)
+            res[k++] = nums2[j++];
 
-        Arrays.sort(res);
+        int r = res.length;
 
-        int n = res.length;
-
-        if(n % 2 != 0)
-            return res[n/2];
+        if (r % 2 != 0)
+            return res[r / 2];
         else
-            return ((double)res[n/2 - 1] + res[n/2]) / 2;
+            return ( res[r / 2 - 1] + res[r / 2]) / 2.0;
     }
 }
