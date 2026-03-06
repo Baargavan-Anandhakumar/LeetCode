@@ -38,6 +38,7 @@
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3024-type-of-triangle) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0473-matchsticks-to-square](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1486-xor-operation-in-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Matrix
 |  |
 | ------- |
@@ -138,10 +140,12 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## String
 |  |
 | ------- |
@@ -241,10 +245,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -273,4 +279,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0164-maximum-gap) |
+## Trie
+|  |
+| ------- |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 <!---LeetCode Topics End-->
