@@ -26,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0473-matchsticks-to-square) |
@@ -72,6 +73,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0278-first-bad-version) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -283,6 +285,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Memoization
 |  |
 | ------- |
@@ -324,4 +327,20 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
