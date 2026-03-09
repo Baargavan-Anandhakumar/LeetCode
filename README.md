@@ -235,6 +235,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [1302-deepest-leaves-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [1302-deepest-leaves-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Brainteaser
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0079-word-search) |
 | [1302-deepest-leaves-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Bucket Sort
 |  |
 | ------- |
