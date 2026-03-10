@@ -239,6 +239,7 @@
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -252,6 +253,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1302-deepest-leaves-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -326,6 +329,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Indexed Tree
 |  |
