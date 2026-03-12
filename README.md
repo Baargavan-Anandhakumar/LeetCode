@@ -176,6 +176,7 @@
 | [0079-word-search](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -246,6 +247,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -255,12 +257,14 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -310,6 +314,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0337-house-robber-iii) |
 | [0814-binary-tree-pruning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1302-deepest-leaves-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1302-deepest-leaves-sum) |
@@ -330,6 +335,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
