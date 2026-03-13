@@ -364,5 +364,6 @@
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
