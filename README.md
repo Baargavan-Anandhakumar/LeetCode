@@ -361,4 +361,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
