@@ -54,6 +54,7 @@
 | [0037-sudoku-solver](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0146-lru-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0146-lru-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
@@ -366,4 +369,8 @@
 | ------- |
 | [0178-rank-scores](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0182-duplicate-emails) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
