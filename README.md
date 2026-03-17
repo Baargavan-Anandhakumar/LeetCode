@@ -38,6 +38,7 @@
 | [1402-reducing-dishes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
@@ -110,6 +111,7 @@
 | [0410-split-array-largest-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1402-reducing-dishes) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Math
 |  |
@@ -143,6 +145,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0079-word-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Interactive
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [1402-reducing-dishes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1402-reducing-dishes) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3024-type-of-triangle) |
