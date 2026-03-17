@@ -36,6 +36,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -61,6 +62,7 @@
 | [0076-minimum-window-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0146-lru-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -114,6 +116,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1402-reducing-dishes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -140,6 +143,7 @@
 | [0473-matchsticks-to-square](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1009-complement-of-base-10-integer](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Matrix
