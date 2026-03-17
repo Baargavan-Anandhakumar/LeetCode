@@ -42,6 +42,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
@@ -206,6 +207,7 @@
 | [0042-trapping-rain-water](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Linked List
 |  |
 | ------- |
