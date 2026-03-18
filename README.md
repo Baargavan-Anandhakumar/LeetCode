@@ -282,6 +282,7 @@
 | [0814-binary-tree-pruning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1302-deepest-leaves-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,6 +301,7 @@
 | [0814-binary-tree-pruning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1302-deepest-leaves-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -350,6 +352,7 @@
 | [0814-binary-tree-pruning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [1302-deepest-leaves-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
