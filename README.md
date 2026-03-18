@@ -110,6 +110,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1402-reducing-dishes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1402-reducing-dishes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Math
 |  |
@@ -146,6 +148,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Matrix
 |  |
