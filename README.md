@@ -19,6 +19,7 @@
 | [0078-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -103,6 +104,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -161,6 +163,7 @@
 | [0037-sudoku-solver](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -229,6 +232,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -256,6 +260,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Linked List
 |  |
