@@ -27,6 +27,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -71,6 +72,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -260,6 +262,7 @@
 | [0056-merge-intervals](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [1402-reducing-dishes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1402-reducing-dishes) |
@@ -343,6 +346,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0169-majority-element) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
@@ -359,6 +363,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
