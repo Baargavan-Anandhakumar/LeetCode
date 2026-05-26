@@ -26,6 +26,7 @@
 | [0088-merge-sorted-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -74,6 +75,7 @@
 | [0037-sudoku-solver](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -453,4 +455,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
