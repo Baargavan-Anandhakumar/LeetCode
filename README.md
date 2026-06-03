@@ -180,6 +180,7 @@
 | [0137-single-number-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0473-matchsticks-to-square](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1009-complement-of-base-10-integer](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1009-complement-of-base-10-integer) |
