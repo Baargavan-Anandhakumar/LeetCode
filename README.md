@@ -140,6 +140,7 @@
 | [0312-burst-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0397-integer-replacement](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -151,6 +152,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -185,6 +187,7 @@
 | [0191-number-of-1-bits](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0260-single-number-iii) |
+| [0397-integer-replacement](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1009-complement-of-base-10-integer](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1009-complement-of-base-10-integer) |
@@ -406,6 +409,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
