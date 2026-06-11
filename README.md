@@ -175,6 +175,7 @@
 | [0050-powx-n](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0292-nim-game) |
 | [0390-elimination-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0390-elimination-game) |
@@ -262,6 +263,7 @@
 | [0079-word-search](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0383-ransom-note) |
@@ -277,6 +279,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0390-elimination-game) |
 ## Stack
@@ -288,6 +291,7 @@
 | [0071-simplify-path](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0224-basic-calculator) |
 | [0853-car-fleet](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
