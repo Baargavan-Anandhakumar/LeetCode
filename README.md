@@ -74,6 +74,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3861-minimum-capacity-box](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
@@ -276,6 +277,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [0498-diagonal-traverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
+| [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
