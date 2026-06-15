@@ -78,6 +78,7 @@
 | [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3861-minimum-capacity-box](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3861-minimum-capacity-box) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
