@@ -98,6 +98,7 @@
 | [0383-ransom-note](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0389-find-the-difference) |
 | [0911-online-election](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0911-online-election) |
+| [1189-maximum-number-of-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -286,6 +287,7 @@
 | [0389-find-the-difference](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1189-maximum-number-of-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -426,6 +428,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
