@@ -157,6 +157,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0397-integer-replacement](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -192,6 +193,7 @@
 | [0224-basic-calculator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0292-nim-game) |
+| [0343-integer-break](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
