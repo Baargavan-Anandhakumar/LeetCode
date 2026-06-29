@@ -188,6 +188,7 @@
 | [0002-add-two-numbers](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0189-rotate-array) |
@@ -275,6 +276,7 @@
 | [0022-generate-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0071-simplify-path) |
@@ -324,6 +326,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0498-diagonal-traverse) |
