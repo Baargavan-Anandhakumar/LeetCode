@@ -82,6 +82,7 @@
 | [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3861-minimum-capacity-box](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3861-minimum-capacity-box) |
+| [3921-score-validator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3921-score-validator) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -302,6 +303,7 @@
 | [3340-check-balanced-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3921-score-validator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3921-score-validator) |
 ## Recursion
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3921-score-validator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3921-score-validator) |
 ## Sorting
 |  |
 | ------- |
