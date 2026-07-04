@@ -46,6 +46,7 @@
 | [0473-matchsticks-to-square](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0498-diagonal-traverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -199,6 +200,7 @@
 | [0343-integer-break](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -350,6 +352,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0853-car-fleet) |
 | [1051-height-checker](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1051-height-checker) |
 | [1402-reducing-dishes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1402-reducing-dishes) |
