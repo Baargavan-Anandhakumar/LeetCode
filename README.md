@@ -296,6 +296,7 @@
 | [0383-ransom-note](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
+| [0482-license-key-formatting](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0482-license-key-formatting) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
