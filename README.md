@@ -66,6 +66,7 @@
 | [1470-shuffle-the-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1598-crawler-log-folder](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -306,6 +307,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1598-crawler-log-folder](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -334,6 +336,7 @@
 | [0853-car-fleet](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1598-crawler-log-folder](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
