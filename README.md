@@ -307,6 +307,7 @@
 | [0482-license-key-formatting](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0482-license-key-formatting) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1598-crawler-log-folder](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -337,6 +338,7 @@
 | [0224-basic-calculator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0224-basic-calculator) |
 | [0853-car-fleet](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
