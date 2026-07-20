@@ -85,6 +85,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3788-maximum-score-of-a-split](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3788-maximum-score-of-a-split) |
 | [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3861-minimum-capacity-box](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3861-minimum-capacity-box) |
@@ -281,6 +282,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3788-maximum-score-of-a-split](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3788-maximum-score-of-a-split) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## String
 |  |
