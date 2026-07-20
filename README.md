@@ -219,6 +219,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3908-valid-digit-number) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -592,6 +593,7 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Quickselect
 |  |
 | ------- |
