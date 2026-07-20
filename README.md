@@ -59,6 +59,7 @@
 | [0994-rotting-oranges](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1051-height-checker) |
+| [1260-shift-2d-grid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -245,6 +246,7 @@
 | [0085-maximal-rectangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -354,6 +356,7 @@
 | [0067-add-binary](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1260-shift-2d-grid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
