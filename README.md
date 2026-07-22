@@ -90,6 +90,7 @@
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3861-minimum-capacity-box](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3921-score-validator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3921-score-validator) |
+| [3925-concatenate-array-with-reverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -368,6 +369,7 @@
 | [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3921-score-validator) |
+| [3925-concatenate-array-with-reverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
