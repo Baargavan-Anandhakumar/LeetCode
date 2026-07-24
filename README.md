@@ -220,6 +220,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3848-check-digitorial-permutation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3848-check-digitorial-permutation) |
 | [3908-valid-digit-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Bit Manipulation
@@ -481,6 +482,7 @@
 | [0383-ransom-note](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3848-check-digitorial-permutation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3848-check-digitorial-permutation) |
 ## Queue
 |  |
 | ------- |
