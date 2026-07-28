@@ -78,6 +78,7 @@
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
@@ -217,6 +218,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -372,6 +374,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2974-minimum-number-game) |
 | [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3921-score-validator) |
@@ -602,10 +605,15 @@
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
