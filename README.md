@@ -136,6 +136,7 @@
 | [0189-rotate-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0443-string-compression) |
+| [2000-reverse-prefix-of-word](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -337,6 +338,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3340-check-balanced-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -369,6 +371,7 @@
 | [1598-crawler-log-folder](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2000-reverse-prefix-of-word](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
