@@ -171,6 +171,7 @@
 | [0022-generate-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0118-pascals-triangle) |
@@ -214,6 +215,7 @@
 | [0043-multiply-strings](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -529,6 +531,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
