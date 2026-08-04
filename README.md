@@ -89,6 +89,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3731-find-missing-elements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3731-find-missing-elements) |
 | [3788-maximum-score-of-a-split](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3788-maximum-score-of-a-split) |
 | [3838-weighted-word-mapping](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
@@ -119,6 +120,7 @@
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3941-password-strength](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3941-password-strength) |
 ## Two Pointers
@@ -420,6 +422,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3731-find-missing-elements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
