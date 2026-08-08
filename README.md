@@ -87,6 +87,7 @@
 | [3024-type-of-triangle](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3024-type-of-triangle) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3295-report-spam-message](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3731-find-missing-elements) |
@@ -119,6 +120,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3295-report-spam-message](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3295-report-spam-message) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -346,6 +348,7 @@
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3295-report-spam-message](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3295-report-spam-message) |
 | [3340-check-balanced-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
