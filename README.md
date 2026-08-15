@@ -228,6 +228,7 @@
 | [0224-basic-calculator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0412-fizz-buzz) |
@@ -365,6 +366,7 @@
 | [0050-powx-n](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0390-elimination-game) |
 ## Stack
 |  |
