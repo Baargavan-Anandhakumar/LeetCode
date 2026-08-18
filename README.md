@@ -62,6 +62,7 @@
 | [0994-rotting-oranges](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -117,6 +118,7 @@
 | [0389-find-the-difference](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0389-find-the-difference) |
 | [0911-online-election](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0911-online-election) |
 | [1189-maximum-number-of-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1980-find-unique-binary-string](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1980-find-unique-binary-string) |
