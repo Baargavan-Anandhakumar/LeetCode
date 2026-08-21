@@ -56,6 +56,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0853-car-fleet) |
@@ -121,6 +122,7 @@
 | [0383-ransom-note](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0706-design-hashmap) |
 | [0911-online-election](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0911-online-election) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -455,6 +457,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -594,6 +597,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0705-design-hashset](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0706-design-hashmap) |
 | [0911-online-election](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0911-online-election) |
 ## Data Stream
 |  |
@@ -665,4 +669,5 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
