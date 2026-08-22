@@ -104,6 +104,7 @@
 | [3921-score-validator](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Math
 |  |
 | ------- |
