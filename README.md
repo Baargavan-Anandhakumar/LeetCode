@@ -675,4 +675,8 @@
 | ------- |
 | [0705-design-hashset](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0706-design-hashmap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Baargavan-Anandhakumar/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
