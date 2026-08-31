@@ -1,6 +1,6 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        TreeMap<Integer,Integer> map=new TreeMap<>();
+        Map<Integer,Integer> map=new HashMap<>();
         for(int i:nums)
         {
             map.merge(i,1,Integer::sum);
